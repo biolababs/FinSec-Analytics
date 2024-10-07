@@ -29,4 +29,4 @@ By implementing FinSec-Analytics, the  financial industry will benefit from:
 
 ## Conclusion
 
-FinSec-Analytics represents a bold initiative to strengthen the security defenses of the U.S. financial industry through the power of advanced data analytics. By leveraging the latest technologies and methodologies, this endeavor aims to provide a comprehensive and robust security solution, safeguarding financial institutions and their customers from cyber threats and fraudulent activities.
+FinSec-Analytics represents a bold initiative to strengthen the security defenses of the financial industry through the power of advanced data analytics. By leveraging the latest technologies and methodologies, this endeavor aims to provide a comprehensive and robust security solution, safeguarding financial institutions and their customers from cyber threats and fraudulent activities.
