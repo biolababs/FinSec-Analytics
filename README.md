@@ -1,4 +1,4 @@
-# **FinSec-Analytics: Advanced Security Analytics for Financial Industry Security**
+# **FinSec-Analytics: Data Analytics for Financial Industry Security**
 
 ## Overview
 
