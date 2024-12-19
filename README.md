@@ -2,7 +2,7 @@
 
 ## Overview
 
-FinSec-Analytics is an endeavor aimed at fortifying the security defenses and preventative measures across the U.S. financial industry through the power of advanced data analytics techniques.This project seeks to develop and implement advanced analytics-driven solutions tailored specifically for the financial sector, harnessing the latest technologies and methodologies to enhance threat detection, monitoring, and prevention capabilities.
+FinSec-Analytics is an endeavor aimed at fortifying the security defenses and preventative measures across the  financial industry through the power of advanced data analytics techniques.This project seeks to develop and implement advanced analytics-driven solutions tailored specifically for the financial sector, harnessing the latest technologies and methodologies to enhance threat detection, monitoring, and prevention capabilities.
 
 ## Key Objectives
 
